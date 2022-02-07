@@ -67,7 +67,7 @@ namespace WindowsFormsApp1
                 num1 = Convert.ToDouble(texresul.Text);
 
             }
-            else if (operador == 'X')
+            else if (operador == 'x')
             {
                 texresul.Text = (num1 * num2).ToString();
                 num1 = Convert.ToDouble(texresul.Text);
